@@ -4,11 +4,52 @@ Collection of atom plugins I use for dev
 
 ##Install
 
-```
-$ apm install activate-power-mode advanced-open-file atom-material-ui autocomplete-modules autocomplete-paths color-picker editor-stats esformatter file-icons fold-functions gitignore-snippets highlight-selected imdone-atom language-gitignore language-javascript-jsx linter linter-eslint linter-flow mac-fix-path merge-conflicts minimap minimap-autohide minimap-bookmarks minimap-find-and-replace minimap-git-diff minimap-hide minimap-highlight-selected minimap-linter minimap-pigments minimap-selection npm-install pane-layout-plus pigments react-snippets regex-railroad-diagram regex-tester sort-lines terminal-plus tomorrow-night-eighties-syntax
+```apm install activate-power-mode advanced-open-file atom-material-ui autocomplete-modules autocomplete-paths color-picker editor-stats esformatter file-icons fold-functions gitignore-snippets highlight-selected imdone-atom language-gitignore language-javascript-jsx linter linter-eslint linter-flow mac-fix-path merge-conflicts minimap minimap-autohide minimap-bookmarks minimap-find-and-replace minimap-git-diff minimap-hide minimap-highlight-selected minimap-linter minimap-pigments minimap-selection npm-install pane-layout-plus pigments react-snippets regex-railroad-diagram regex-tester sort-lines terminal-plus tomorrow-night-eighties-syntax
 ```
 
-##[activate-power-mode](https://github.com/JoelBesada/activate-power-mode#readme) 
+##Plugin List
+
+* [activate-power-mode](activate-power-mode)
+* [advanced-open-file](advanced-open-file)
+* [atom-material-ui](atom-material-ui)
+* [autocomplete-modules](autocomplete-modules)
+* [autocomplete-paths](autocomplete-paths)
+* [color-picker](color-picker)
+* [editor-stats](editor-stats)
+* [esformatter](esformatter)
+* [file-icons](file-icons)
+* [fold-functions](fold-functions)
+* [gitignore-snippets](gitignore-snippets)
+* [highlight-selected](highlight-selected)
+* [imdone-atom](imdone-atom)
+* [language-gitignore](language-gitignore)
+* [language-javascript-jsx](language-javascript-jsx)
+* [linter](linter)
+* [linter-eslint](linter-eslint)
+* [linter-flow](linter-flow)
+* [mac-fix-path](mac-fix-path)
+* [merge-conflicts](merge-conflicts)
+* [minimap](minimap)
+* [minimap-autohide](minimap-autohide)
+* [minimap-bookmarks](minimap-bookmarks)
+* [minimap-find-and-replace](minimap-find-and-replace)
+* [minimap-git-diff](minimap-git-diff)
+* [minimap-hide](minimap-hide)
+* [minimap-highlight-selected](minimap-highlight-selected)
+* [minimap-linter](minimap-linter)
+* [minimap-pigments](minimap-pigments)
+* [minimap-selection](minimap-selection)
+* [npm-install](npm-install)
+* [pane-layout-plus](pane-layout-plus)
+* [pigments](pigments)
+* [react-snippets](react-snippets)
+* [regex-railroad-diagram](regex-railroad-diagram)
+* [regex-tester](regex-tester)
+* [sort-lines](sort-lines)
+* [terminal-plus](terminal-plus)
+* [tomorrow-night-eighties-syntax](tomorrow-night-eighties-syntax)
+
+##<a name="activate-power-mode"></a>[activate-power-mode](https://github.com/JoelBesada/activate-power-mode#readme) 
 
 Activate POWER MODE to write your code in style.
 
@@ -20,7 +61,7 @@ Activate with <kbd>Ctrl</kbd>-<kbd>Alt</kbd>-<kbd>O</kbd> or through the command
 ![activate-power-mode-0 4 0](https://cloud.githubusercontent.com/assets/688415/11615565/10f16456-9c65-11e5-8af4-265f01fc83a0.gif)
 
 **For a list of power mode packages to other editors, check out [codeinthedark/awesome-power-mode](https://github.com/codeinthedark/awesome-power-mode).**
-##[advanced-open-file](https://github.com/Osmose/advanced-open-file#readme) 
+##<a name="advanced-open-file"></a>[advanced-open-file](https://github.com/Osmose/advanced-open-file#readme) 
 
 Open and create files and directories easily. Type in a path (with autocomplete) and view directory contents.
 
@@ -277,7 +318,7 @@ and submit the branch as a pull request, and you should hear back shortly!
 #### License
 
 Licensed under the MIT License. See `LICENSE` for details.
-##[atom-material-ui](https://github.com/silvestreh/atom-material-ui#readme) 
+##<a name="atom-material-ui"></a>[atom-material-ui](https://github.com/silvestreh/atom-material-ui#readme) 
 
 A dark UI theme for Atom that follows Google's Material Design Guidelines
 
@@ -323,7 +364,7 @@ Animated tabs! (these animations can be disabled from the theme's settings)
 ![](http://i.imgur.com/0tHORB1.png)
 
 You can download the redesigned icon from [dropbox](https://dl.dropboxusercontent.com/u/115930/Atom-MD-Icon.zip). It's a ZIP file containing multiple resolution PNGs, ICNS and ICO formats. Windows ICO converted by Akshit Tripathi.
-##[autocomplete-modules](https://github.com/nkt/atom-autocomplete-modules#readme) 
+##<a name="autocomplete-modules"></a>[autocomplete-modules](https://github.com/nkt/atom-autocomplete-modules#readme) 
 
 Autocomplete for require/import statements
 
@@ -338,7 +379,7 @@ Autocomplete for require/import statements.
 License
 -------
 [![MIT License](https://img.shields.io/apm/l/autocomplete-modules.svg)](LICENSE)
-##[autocomplete-paths](https://github.com/atom-community/autocomplete-paths#readme) 
+##<a name="autocomplete-paths"></a>[autocomplete-paths](https://github.com/atom-community/autocomplete-paths#readme) 
 
 Adds path autocompletion to autocomplete+
 
@@ -357,7 +398,7 @@ Adds path autocompletion to autocomplete+
 You can install autocomplete-paths using the Preferences pane.
 
 **Please make sure you have autocomplete-plus installed as well**
-##[color-picker](https://github.com/thomaslindstrom/color-picker) 
+##<a name="color-picker"></a>[color-picker](https://github.com/thomaslindstrom/color-picker) 
 
 Right click or press CMD-SHIFT-C/CTRL-ALT-C to open it.
 
@@ -385,7 +426,7 @@ Open `Atom Settings`, go to `Packages` in the left hand sidebar, and press `Sett
 #### To do
 
 - Selectable list of the current project color variables
-##[editor-stats](https://github.com/atom/editor-stats#readme) 
+##<a name="editor-stats"></a>[editor-stats](https://github.com/atom/editor-stats#readme) 
 
 Display a graph of keyboard and mouse usage for the last 6 hours.
 
@@ -398,7 +439,7 @@ The blue bar indicates the time of greatest activity.
 You can toggle it using the `Editor Stats: Toggle` command from the command palette.
 
 ![](https://f.cloud.github.com/assets/671378/2262223/843b1172-9e57-11e3-9c60-8d28d542f39c.png)
-##[esformatter](https://github.com/sindresorhus/atom-esformatter#readme) 
+##<a name="esformatter"></a>[esformatter](https://github.com/sindresorhus/atom-esformatter#readme) 
 
 Beautify JavaScript
 
@@ -447,7 +488,7 @@ Just add the ones you want to your config file:
 #### License
 
 MIT © [Sindre Sorhus](http://sindresorhus.com)
-##[file-icons](https://github.com/DanBrooker/file-icons) 
+##<a name="file-icons"></a>[file-icons](https://github.com/DanBrooker/file-icons) 
 
 Assign file extension icons and colours for improved visual grepping
 
@@ -544,7 +585,7 @@ Medium is colour provided by Base16. Light is medium lightened 15%. Dark is medi
 
 Wouldn't have even tried to make this if it weren't for [sommerper/filetype-color](https://github.com/sommerper/filetype-color)
 Also thanks to all the [contributors](https://github.com/DanBrooker/file-icons/graphs/contributors).
-##[fold-functions](https://github.com/robballou/atom-fold-functions#readme) 
+##<a name="fold-functions"></a>[fold-functions](https://github.com/robballou/atom-fold-functions#readme) 
 
 Toggle folding on all functions
 
@@ -576,7 +617,7 @@ Additionally, two new autofolding options have been added in 0.4.2:
 
 1. `autofoldGrammars` allows you to specify grammar names for grammars you *want* to autofold. An empty list (which is the default), means everything is fair game to fold. That is except...
 2. `autofoldIgnoreGrammars` allows you to specify grammar names for grammars you *do not want to autofold*. This fires after `autofoldGrammars` and does have a default value (see above).
-##[gitignore-snippets](https://github.com/jefkoslowski/gitignore-snippets) 
+##<a name="gitignore-snippets"></a>[gitignore-snippets](https://github.com/jefkoslowski/gitignore-snippets) 
 
 Quickly create .gitignore files with templates from GitHub.
 
@@ -753,7 +794,7 @@ You can find all available templates on https://github.com/github/gitignore.
 | gig-yeoman               | Yeoman               |
 | gig-yii                  | Yii                  |
 | gig-zendframework        | ZendFramework        |
-##[highlight-selected](https://github.com/richrace/highlight-selected) 
+##<a name="highlight-selected"></a>[highlight-selected](https://github.com/richrace/highlight-selected) 
 
 Highlights the current word selected when double clicking
 
@@ -804,7 +845,7 @@ atom-text-editor, atom-text-editor::shadow {
 - Should we highlight symbols?
 - Merge this feature in the
 [find-and-replace](https://github.com/atom/find-and-replace) package
-##[imdone-atom](https://github.com/imdone/imdone-atom#readme) 
+##<a name="imdone-atom"></a>[imdone-atom](https://github.com/imdone/imdone-atom#readme) 
 
 A hackable task-board for TODOs, FIXMEs, HACKs, etc in your code.
 
@@ -873,7 +914,7 @@ Using [todo.txt metadata](https://github.com/imdone/imdone-core###metadata) in y
 ![gh-issue-imdone](https://cloud.githubusercontent.com/assets/233505/9595122/72542350-502a-11e5-87b3-a4eb49428b7c.png)
 
 Look at [imdone/imdone-core###metadata](https://github.com/imdone/imdone-core###metadata) for more info.
-##[language-gitignore](https://github.com/bsara/language-gitignore#readme) 
+##<a name="language-gitignore"></a>[language-gitignore](https://github.com/bsara/language-gitignore#readme) 
 
 Syntax highlighting for .gitignore files in Atom
 
@@ -891,13 +932,13 @@ For full list of supported formats for "Header Blocks", see the [header block sa
 ![Screenshot](https://raw.githubusercontent.com/bsara/language-gitignore/master/screenshot.png)
 
 ***(Theme used in screenshot: "Oscuro Syntax"...which I have not yet finished but will soon)***
-##[language-javascript-jsx](https://github.com/subtlegradient/language-javascript-jsx#readme) 
+##<a name="language-javascript-jsx"></a>[language-javascript-jsx](https://github.com/subtlegradient/language-javascript-jsx#readme) 
 
 JavaScript, ES6, ES7, React JSX, Flow, etc… by SubtleGradient of Facebook
 
 ### JavaScript, ES6, ES7, React JSX, Flow, etc…
 #### by SubtleGradient of Facebook
-##[linter](https://github.com/atom-community/linter#readme) 
+##<a name="linter"></a>[linter](https://github.com/atom-community/linter#readme) 
 
 A Base Linter with Cow Powers
 
@@ -943,7 +984,7 @@ Stick to imposed codestyle:
 
 * `$ npm i -g coffeelint eslint`
 * `$ npm run lint`
-##[linter-eslint](https://github.com/AtomLinter/linter-eslint#readme) 
+##<a name="linter-eslint"></a>[linter-eslint](https://github.com/AtomLinter/linter-eslint#readme) 
 
 Lint JavaScript on the fly, using ESLint
 
@@ -1003,7 +1044,7 @@ Please note that modifications should follow these coding guidelines:
 * Vertical whitespace helps readability, don’t be afraid to use it
 
 Thank you for helping out!
-##[linter-flow](https://github.com/AtomLinter/linter-flow) 
+##<a name="linter-flow"></a>[linter-flow](https://github.com/AtomLinter/linter-flow) 
 
 Lint JavaScript on the fly, using Flow
 
@@ -1063,7 +1104,7 @@ Please note that modifications should follow these coding guidelines:
 * Vertical whitespace helps readability, don’t be afraid to use it
 
 **Thank you for helping out!**
-##[mac-fix-path](https://github.com/atom/mac-fix-path#readme) 
+##<a name="mac-fix-path"></a>[mac-fix-path](https://github.com/atom/mac-fix-path#readme) 
 
 fix $PATH variable when running Atom from launcher
 
@@ -1072,7 +1113,7 @@ fix $PATH variable when running Atom from launcher
 A short description of your package.
 
 ![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
-##[merge-conflicts](https://github.com/smashwilson/merge-conflicts#readme) 
+##<a name="merge-conflicts"></a>[merge-conflicts](https://github.com/smashwilson/merge-conflicts#readme) 
 
 Resolve git conflicts within Atom
 
@@ -1148,7 +1189,7 @@ subs.dispose()
 #### Contributions
 
 Pull requests are welcome, big and small! Check out the [contributing guide](./CONTRIBUTING.md) for details.
-##[minimap](https://github.com/atom-minimap/minimap#readme) 
+##<a name="minimap"></a>[minimap](https://github.com/atom-minimap/minimap#readme) 
 
 A preview of the full source code.
 
@@ -1505,7 +1546,7 @@ Another non-trivial change is the list of available decoration's type. At the ti
 ##### License
 
 [MIT](./LICENSE)
-##[minimap-autohide](https://github.com/jayk/minimap-autohide#readme) 
+##<a name="minimap-autohide"></a>[minimap-autohide](https://github.com/jayk/minimap-autohide#readme) 
 
 Automatically hide the minimap when you aren't using it.
 
@@ -1547,7 +1588,7 @@ Likewise, if you don't like the semi-transparent background, you can override it
     }
 
 Known issues: Does not interact well with 'minimap-on-left' setting. You may, however, be able to set a style in your own styles.less that would allow it to work.
-##[minimap-bookmarks](https://github.com/atom-minimap/minimap-bookmarks#readme) 
+##<a name="minimap-bookmarks"></a>[minimap-bookmarks](https://github.com/atom-minimap/minimap-bookmarks#readme) 
 
 Displays Atom bookmarks in the minimap
 
@@ -1556,7 +1597,7 @@ Displays Atom bookmarks in the minimap
 Displays Atom bookmarks in the minimap.
 
 ![Minimap Bookmarks Screenshot](https://github.com/atom-minimap/minimap-bookmarks/blob/master/screenshot.gif?raw=true)
-##[minimap-find-and-replace](https://github.com/atom-minimap/minimap-find-and-replace#readme) 
+##<a name="minimap-find-and-replace"></a>[minimap-find-and-replace](https://github.com/atom-minimap/minimap-find-and-replace#readme) 
 
 Minimap bindings for the find and replace package
 
@@ -1567,7 +1608,7 @@ Displays the search matches in the minimap.
 ![Minimap Screenshot](https://github.com/atom-minimap/minimap-find-and-replace/blob/master/screenshot.png?raw=true)
 
 You will need the [Minimap package](https://github.com/atom-minimap/minimap) installed to use this package.
-##[minimap-git-diff](https://github.com/atom-minimap/minimap-git-diff#readme) 
+##<a name="minimap-git-diff"></a>[minimap-git-diff](https://github.com/atom-minimap/minimap-git-diff#readme) 
 
 A minimap binding for the git diff package
 
@@ -1578,7 +1619,7 @@ A minimap binding for the Atom git-diff package.
 ![Minimap Git Diff Screenshot](https://github.com/atom-minimap/minimap-git-diff/blob/master/screenshot.png?raw=true)
 
 You will need the [Minimap package](https://github.com/fundon/atom-minimap) installed to use this package.
-##[minimap-hide](https://github.com/T-800/atom-minimap-hide#readme) 
+##<a name="minimap-hide"></a>[minimap-hide](https://github.com/T-800/atom-minimap-hide#readme) 
 
 Hide the minimap when pane isn't focus
 
@@ -1590,7 +1631,7 @@ Hide the minimap when pane isn't focus
 ``` apm install minimap-hide ```
 
 [![apm install {package}](http://tcyrus.me/apm/minimap-hide.svg?theme=solarized-dark)](https://atom.io/packages/minimap-hide)
-##[minimap-highlight-selected](https://github.com/atom-minimap/minimap-highlight-selected#readme) 
+##<a name="minimap-highlight-selected"></a>[minimap-highlight-selected](https://github.com/atom-minimap/minimap-highlight-selected#readme) 
 
 A minimap binding for the highlight-selected package
 
@@ -1615,7 +1656,7 @@ If you want to change the color of the minimap highlights use the following CSS 
   background: red;
 }
 ```
-##[minimap-linter](https://github.com/nesukun/atom-minimap-linter#readme) 
+##<a name="minimap-linter"></a>[minimap-linter](https://github.com/nesukun/atom-minimap-linter#readme) 
 
 Minimap bindings for atom-linter
 
@@ -1624,7 +1665,7 @@ Minimap bindings for atom-linter
 Atom package to display linter markers on minimap.
 
 ![minimap-linter](https://raw.githubusercontent.com/nesukun/atom-minimap-linter/master/minimap-linter.gif)
-##[minimap-pigments](https://github.com/abe33/minimap-pigments#readme) 
+##<a name="minimap-pigments"></a>[minimap-pigments](https://github.com/abe33/minimap-pigments#readme) 
 
 An Atom plugin to display pigments colors in the Minimap.
 
@@ -1633,7 +1674,7 @@ An Atom plugin to display pigments colors in the Minimap.
 An Atom plugin to display pigments colors in the Minimap.
 
 ![Screenshot](https://github.com/abe33/minimap-pigments/blob/master/screenshot.png?raw=true)
-##[minimap-selection](https://github.com/atom-minimap/minimap-selection#readme) 
+##<a name="minimap-selection"></a>[minimap-selection](https://github.com/atom-minimap/minimap-selection#readme) 
 
 Display the buffer's selections on the minimap
 
@@ -1666,7 +1707,7 @@ When the `Highlight Cursors Lines` setting is enabled the line's highlight color
   background: blue;
 }
 ```
-##[npm-install](https://github.com/hughsk/atom-npm-install#readme) 
+##<a name="npm-install"></a>[npm-install](https://github.com/hughsk/atom-npm-install#readme) 
 
 Automatically install and save any missing npm modules being used in the current file
 
@@ -1725,7 +1766,7 @@ these shortcuts, simply add the following to your keymap file:
 #### License ####
 
 MIT. See [LICENSE.md](http://github.com/hughsk/npm-install/blob/master/LICENSE.md) for details.
-##[pane-layout-plus](https://github.com/chemoish/atom-pane-layout#readme) 
+##<a name="pane-layout-plus"></a>[pane-layout-plus](https://github.com/chemoish/atom-pane-layout#readme) 
 
 Can has switch the layout of your panes.
 
@@ -1750,7 +1791,7 @@ Focus and control the layout of your atom editor.
  - When a layout is chosen that decreases the pane count, any left over panes will be collapsed into the last available pane.
  - When a layout is chosen and a custom layout is already in place, any left over panes will be collapsed into the last available pane.
  - When a layout is changed that causes panes to collapse, stay focused on the active file – iff the file is in the file system.
-##[pigments](https://github.com/abe33/atom-pigments#readme) 
+##<a name="pigments"></a>[pigments](https://github.com/abe33/atom-pigments#readme) 
 
 A package to display colors in project and files.
 
@@ -2049,7 +2090,7 @@ Pigments rescans the text buffer once you stopped editing it, however as the pro
 
 * Key: `pigments.delayBeforeScan`
 * Default: `500` (ms)
-##[react-snippets](https://github.com/webbushka/atom-react-snippets) 
+##<a name="react-snippets"></a>[react-snippets](https://github.com/webbushka/atom-react-snippets) 
 
 Atom Snippets for React, React Router and Flux
 
@@ -2104,7 +2145,7 @@ Credit
 ------
 
 The React.js snippets were originally created by [orktes](https://atom.io/users/orktes) in [Atom React](https://atom.io/packages/react) in ES5 syntax.
-##[regex-railroad-diagram](https://github.com/klorenz/atom-regex-railroad-diagrams#readme) 
+##<a name="regex-railroad-diagram"></a>[regex-railroad-diagram](https://github.com/klorenz/atom-regex-railroad-diagrams#readme) 
 
 Display railroad diagram of regex under cursor.
 
@@ -2122,7 +2163,7 @@ correct.
 For now it only supports most common regex features, but there are more 
 to come.
 
-##[regex-tester](https://github.com/deprint/regex-tester#readme) 
+##<a name="regex-tester"></a>[regex-tester](https://github.com/deprint/regex-tester#readme) 
 
 Test Javascript regular expressions
 
@@ -2134,7 +2175,7 @@ regex-tester
 ![regex](https://cloud.githubusercontent.com/assets/7817714/8729643/9f46654c-2bec-11e5-8edd-5f026ca45391.png)
 
 Run `regex-tester:toggle` to open the panel
-##[sort-lines](https://github.com/atom/sort-lines#readme) 
+##<a name="sort-lines"></a>[sort-lines](https://github.com/atom/sort-lines#readme) 
 
 Sorts your lines. Never gets tired.
 
@@ -2143,7 +2184,7 @@ Sorts your lines. Never gets tired.
 Sorts your lines in Atom, never gets tired.
 
 ![sort-lines-demo](https://f.cloud.github.com/assets/2988/1796891/85e69ff2-6a93-11e3-89ac-31927f604592.gif)
-##[terminal-plus](https://atom.io/packages/terminal-plus) 
+##<a name="terminal-plus"></a>[terminal-plus](https://atom.io/packages/terminal-plus) 
 
 A terminal package for Atom, complete with themes and more.
 
@@ -2300,7 +2341,7 @@ Or navigate to the install tab in Atom’s settings view, and search for `termin
 - [x] Add support for custom ANSI colors in terminal
 - [x] Fix `ctrl+c` for bash prompts on OS X and Linux
 - [x] Add support for status icon names
-##[tomorrow-night-eighties-syntax](https://github.com/rockymadden/tomorrow-night-eighties-syntax-theme#readme) 
+##<a name="tomorrow-night-eighties-syntax"></a>[tomorrow-night-eighties-syntax](https://github.com/rockymadden/tomorrow-night-eighties-syntax-theme#readme) 
 
 Tomorrow Night Eighties syntax theme for Atom.
 
